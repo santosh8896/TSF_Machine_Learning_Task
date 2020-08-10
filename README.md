@@ -14,20 +14,20 @@
     
     From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
    
-   To see the implementation click on this link -
+   To see the implementation click on this link - https://github.com/santosh8896/TSF_Machine_Learning_Task/blob/master/Task-3/Task_3_KMeans_Clustering.ipynb
 
 ## Task 4 - Exploring Decision Tree Algorithm
     For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. 
     The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
  
- To see the implementation click on this link -
+ To see the implementation click on this link - https://github.com/santosh8896/TSF_Machine_Learning_Task/blob/master/Task-4/Task_4_DecisionTrees.ipynb
 
 ## Task 5 - To explore Business Analytics
    
     Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore.
     You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit.
   
-  To see the implementation click on this link -
+  To see the implementation click on this link - https://github.com/santosh8896/TSF_Machine_Learning_Task/blob/master/Task-5/Task_5_Data_analysis.ipynb
 
 # Acknowledgments
     
